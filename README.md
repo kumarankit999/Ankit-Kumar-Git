@@ -1,3 +1,3 @@
 # Ankit-Kumar
 
-This is My first-Ever Trial repository , Making this Repo by seeing some Tutorials
+This is My first-Ever Trial repository , Make this Repo by seeing some Tutorials
